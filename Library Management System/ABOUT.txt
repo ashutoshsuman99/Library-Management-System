@@ -1,4 +1,5 @@
 ***Library Management System***
+Developed by: Thakur Ashutosh Suman
 
 Library Management System is based on a concept of recording owned books, issued books, returned books, students 
 who have borrowed and many more. Before stepping into the main system a user has to pass through a login system 
