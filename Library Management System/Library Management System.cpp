@@ -415,6 +415,7 @@ void delete_book(int x)
 	}
 }
 
+//To search whether a specific student record exists or not
 bool res_student(int x)
 {
 	student st;
