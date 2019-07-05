@@ -373,7 +373,10 @@ void delete_student(int x)
 		intf.close();
 		outf.close();
 		if(cnt==0)
-		cout<<"\n\t\tNo such record exists";
+		{
+			remove("temp.bin");
+			cout<<"\n\t\tNo such record exists";
+		}
 		else
 		{
 			remove("student.bin");
@@ -405,7 +408,10 @@ void delete_book(int x)
 		intf.close();
 		outf.close();
 		if(cnt==0)
-		cout<<"\n\t\tNo such record exists";
+		{
+			remove("temp1.bin");
+			cout<<"\n\t\tNo such record exists";
+		}
 		else
 		{
 			remove("book.bin");
