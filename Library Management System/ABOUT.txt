@@ -12,7 +12,7 @@ The user can also search for students who issued books from the library. While a
 Library Management system is developed using C++ Programming Language and different variables, strings have 
 been used for the development of it. This project provides the best system for managing library records. Here are a few features of this Library Management System.
 
-Login System
+Login System (Password : 0000)
 Login options
 Add, modify, view and delete books
 Issue book
