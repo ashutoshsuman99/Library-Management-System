@@ -9,7 +9,7 @@ been used for the development of it. To store the data it uses C++ OOPs and file
 * Return book
 * Basic Fine charging system
 
-### Developed by: Thakur Ashutosh Suman
+Developed by: Thakur Ashutosh Suman
 
 *Thanks for viewing
 Happy coding:)*
